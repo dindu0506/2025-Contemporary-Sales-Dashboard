@@ -3,55 +3,9 @@
 
 F&F 통합영업팀 | Progressive Web App
 
----
-
-## 🚀 빠른 시작
-
-### 필요한 파일 (3개)
-1. `index.html` - 메인 대시보드
-2. `manifest.json` - 앱 설정
-3. `sw.js` - 오프라인 지원
-
----
-
-## 📦 호스팅 방법
-
-### ✅ 추천: GitHub Pages (무료, 가장 쉬움)
-
-#### 1단계: GitHub 계정 만들기
-- https://github.com 접속
-- 회원가입 (무료)
-
-#### 2단계: 저장소(Repository) 만들기
-1. 로그인 후 우측 상단 `+` → `New repository` 클릭
-2. 저장소 이름: `contemp-dashboard` (원하는 이름)
-3. `Public` 선택
-4. `Create repository` 클릭
-
-#### 3단계: 파일 업로드
-1. `uploading an existing file` 링크 클릭
-2. 3개 파일 모두 드래그 앤 드롭:
-   - index.html
-   - manifest.json
-   - sw.js
-3. 하단 `Commit changes` 클릭
-
-#### 4단계: GitHub Pages 활성화
-1. 저장소 상단 `Settings` 클릭
-2. 좌측 메뉴에서 `Pages` 클릭
-3. Source: `Deploy from a branch` 선택
-4. Branch: `main` 선택, 폴더: `/ (root)` 선택
-5. `Save` 클릭
-6. **5분 정도 기다리면 완료!**
-
-#### 5단계: URL 확인
-- URL: `https://[본인계정명].github.io/[저장소이름]`
-- 예시: `https://johnkim.github.io/contemp-dashboard`
-- 이 URL을 모바일에서 열면 됩니다!
-
----
-
 ## 📱 모바일에서 앱으로 설치하기
+
+https://dindu0506.github.io/2025-Contemporary-Sales-Dashboard
 
 ### Android (Chrome)
 1. 위 URL을 Chrome에서 열기
